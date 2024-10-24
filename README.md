@@ -43,13 +43,17 @@ Surprisingly, even though I am literally the "developer relations" guy at IPinfo
 
 You can reach out to me anytime, including weekends :)
 
-**I am available always in the IPinfo Community: https://community.ipinfo.io/**
+**I am available always in the IPinfo Community: https://community.ipinfo.io/**. I will even write your IPinfo integration code for you, if you reach out to me in the community! Seriously. 
 
 - Email: abdullah@ipinfo.io
-- LinkedIn: https://www.linkedin.com/in/reincoder/
+  - I usually have a ton of email but I will get to you if you email me.
+- IPinfo Community: https://community.ipinfo.io/u/abdullah
+  -  Best place to talk with me is the community. I can give long responses, share code, and tell stories. I priortize the community above emails!
+- LinkedIn: https://www.linkedin.com/in/reincoder
+  - Second best place to reach out to me. I accept most connections and absolutely appreciate messages.
 - Twitter / X: https://x.com/reincdrreincdr
 - Reddit: https://www.reddit.com/user/reincdr
-- IPinfo Community: https://community.ipinfo.io/u/abdullah/
+
 
 I enjoy talking with developers, both new and experienced. I always have my terminal and IDE ready to write quick scripts and can share IP data results via GitHub gists.
 
